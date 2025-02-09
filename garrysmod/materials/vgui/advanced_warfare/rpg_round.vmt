@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+    "$basetexture" "vgui/advanced_warfare/RPG_Round"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+    "$translucent" "1"
+}
