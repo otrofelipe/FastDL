@@ -1,0 +1,10 @@
+"SpriteCard"
+{
+
+"$basetexture" "ms_fx/metalparts02"
+$addself 0
+$additive 0
+
+  $color2 "[2 2 2]"  
+
+}
