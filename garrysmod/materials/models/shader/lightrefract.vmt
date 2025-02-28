@@ -1,0 +1,19 @@
+"Refract"
+{
+ 	"$model" 1
+	"$nodecal" 1
+ 	"$refractamount" "-.04"
+	"$REFRACTTINT" "{246 250 255}"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "effects/fisheyelens_dudv"
+	"$normalmap" "effects/fisheyelens_normal"
+	"Refract_DX60"
+	{
+		"$fallbackmaterial" "models/props_c17/fisheyelens_DX60"
+	}
+
+	"Refract_DX60"
+	{
+		"$fallbackmaterial" "models/props_c17/fisheyelens_dx60"
+	}
+}

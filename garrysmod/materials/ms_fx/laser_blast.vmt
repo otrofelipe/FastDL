@@ -1,0 +1,7 @@
+"SpriteCard"
+{
+
+"$basetexture" "ms_fx/laser_blast"
+$addself 0
+$DEPTHBLEND 0
+}

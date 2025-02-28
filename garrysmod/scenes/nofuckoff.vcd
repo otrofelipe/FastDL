@@ -1,0 +1,63 @@
+// Choreo version 1
+actor "Player"
+{
+  channel "Expression"
+  {
+    event flexanimation "Angry"
+    {
+      time 0.000000 1.750000
+      param ""
+      flexanimations samples_use_time defaultcurvetype=curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x
+      {
+        "lid_raiser" combo 
+        {
+          0.2000 0.5000
+        }
+        {
+          0.2000 0.5000
+        }
+        "lid_tightener" combo 
+        {
+          0.2000 1.0000
+        }
+        {
+          0.2000 0.5000
+        }
+        "lowerer" combo 
+        {
+          0.2000 1.0000
+        }
+        {
+          0.2000 0.5000
+        }
+        "wrinkler" 
+        {
+          0.2000 1.0000
+        }
+        "dilator" 
+        {
+          0.2000 1.0000
+        }
+        "corner_depressor" combo 
+        {
+          0.2000 1.0000
+        }
+        {
+          0.2000 0.5000
+        }
+      }
+    }
+  }
+}
+
+scalesettings
+{
+  "GestureTool" "100"
+  "ExpressionTool" "50"
+  "RampTool" "100"
+  "SceneRampTool" "100"
+  "CChoreoView" "68"
+}
+fps 60
+snap off
+ignorePhonemes off

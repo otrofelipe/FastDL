@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+                  "$basetexture" "metalrear/BigBullet"
+                  
+	"$nocull" 1
+	"$nodecal" 0
+                "$selfillum" 1
+                "$translucent" 0
+	
+
+}

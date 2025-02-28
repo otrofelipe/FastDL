@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "doom/entities/bfg9000/explosion6"
+	$alphatest 1
+}

@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "doom/weapons/shotgun/idle"
+	$vertexalpha 1
+	$vertexcolor 1
+	$translucent 1
+}
