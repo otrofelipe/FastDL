@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/ganimator/kcas/white"
+	"$bumpmap" "models/ganimator/kcas/kcas_metal"
+	"$phong" "1"
+	"$phongBoost" "0.15"
+	"$phongFresnelRanges" "[.2 .5 1]"
+	"$phongExponent" "15"
+
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1.3"
+	"$envmapFresnelMinMaxExp" "[0 .5 1]"
+	"$envmaptint" 		"[.05 .05 .05]"
+  	"$phongdisablehalflambert" "1"
+	
+	"$color2" "{25 25 25}"
+}
