@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "goonyaport/bouncy_yaris/yaris"
+	"$halflambert" 1
+}
