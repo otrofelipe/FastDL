@@ -1,5 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "doom/entities/items/rocketlauncher"
-	$alphatest 1
-}

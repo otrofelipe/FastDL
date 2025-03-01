@@ -1,5 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "doom/entities/plasmagun/hit2"
-	$alphatest 1
-}

@@ -1,5 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "doom/entities/items/health_medium"
-	$alphatest 1
-}

@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/CaptainForever/goliath_finaltexture"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[.005 .005 .005]"
-}

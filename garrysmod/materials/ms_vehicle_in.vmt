@@ -1,5 +1,0 @@
-"SpriteCard"
- {
-	"$basetexture" "ms_vehicle_in"
-	$DEPTHBLEND 1
- }

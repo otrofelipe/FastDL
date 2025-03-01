@@ -1,8 +1,0 @@
-"SpriteCard"
-{
-
-"$basetexture" "ms_fx/explosion_hermit"
-
-$DEPTHBLEND 1
-
-}

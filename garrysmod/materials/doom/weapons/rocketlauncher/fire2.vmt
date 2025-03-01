@@ -1,7 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "doom/weapons/rocketlauncher/fire2"
-	$vertexalpha 1
-	$vertexcolor 1
-	$translucent 1
-}

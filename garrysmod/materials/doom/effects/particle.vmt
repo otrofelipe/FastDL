@@ -1,6 +1,0 @@
-UnlitGeneric
-{
-	$basetexture "doom/effects/particle"
-	$vertexalpha 1
-	$vertexcolor 1
-}
