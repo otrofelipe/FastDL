@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "npc_rush/rush"
-	"$translucent" 1
-	"$vertexalpha" 1
-}
