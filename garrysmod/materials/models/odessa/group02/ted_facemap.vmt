@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/odessa/Group02/ted_facemap"
-	"$halflambert" 1
-}
