@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-    "$basetexture" "vgui/advanced_warfare/ap"
-    "$vertexcolor" "1"
-    "$vertexalpha" "1"
-    "$translucent" "1"
-}
