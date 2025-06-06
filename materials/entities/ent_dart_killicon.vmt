@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "entities/ent_dart_killicon"
+	"$translucent" 1
+	"$vertexalpha" 1
+}
