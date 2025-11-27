@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "doom/entities/items/energy_big"
+	$alphatest 1
+}

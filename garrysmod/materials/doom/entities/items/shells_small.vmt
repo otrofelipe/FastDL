@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "doom/entities/items/shells_small"
+	$alphatest 1
+}

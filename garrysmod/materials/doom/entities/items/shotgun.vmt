@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "doom/entities/items/shotgun"
+	$alphatest 1
+}

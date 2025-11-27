@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture "doom/entities/rocketlauncher/rocket"
+	$alphatest 1
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "doom/entities/items/shotgun"
+	$halflambert 1
+	$alphatest 1
+}

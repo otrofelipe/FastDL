@@ -1,0 +1,14 @@
+UnlitGeneric
+{
+	$basetexture "doom/entities/items/armor_medium"
+	$alphatest 1
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedtexturevar $basetexture
+			animatedtextureframenumvar $frame
+			animatedtextureframerate 5
+		}
+	}
+}
